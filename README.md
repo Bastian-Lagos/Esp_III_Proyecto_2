@@ -1,1 +1,3 @@
-# Esp_III_Proyecto_2
+Ejecutar
+
+pip install -r requirements.txt
